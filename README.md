@@ -22,17 +22,16 @@ BudgetBuddy is a smart and user-friendly expense tracker that helps users manage
 ## 🖼️ Screenshots
 
 ### 🔹 Login Page  
-<img width="1918" height="911" alt="Screenshot 2025-12-30 110602" src="https://github.com/user-attachments/assets/6a6048af-741a-4d74-b3e4-905280903ff2" />
+<img width="1918" height="911" alt="Screenshot 2025-12-30 110602" src="https://github.com/user-attachments/assets/dbcaaa63-ce2e-4437-af9b-2980df14a5a1" />
 
 ### 🔹 Monthly Salary Setup  
-<img width="1919" height="906" alt="Screenshot 2025-12-30 110838" src="https://github.com/user-attachments/assets/5270c5ae-3f45-4ef8-953a-1623976ce02c" />
+<img width="1919" height="906" alt="Screenshot 2025-12-30 110838" src="https://github.com/user-attachments/assets/af17a7db-1267-4d80-a782-47ef2d2905d7" />
 
 ### 🔹 Dashboard – Budget Overview  
-<img width="1901" height="906" alt="Screenshot 2025-12-30 111018" src="https://github.com/user-attachments/assets/06cf85ca-c6bf-4ead-9f31-b599736a15a6" />
+<img width="1901" height="906" alt="Screenshot 2025-12-30 111018" src="https://github.com/user-attachments/assets/7a523cfc-5e8b-4909-9a82-e86d09e60270" />
 
 ### 🔹 Dashboard – Expense Analytics  
-<img width="1901" height="909" alt="Screenshot 2025-12-30 111335" src="https://github.com/user-attachments/assets/e11b2c9d-b71a-420f-973a-b4b3fadcd159" />
-
+<img width="1901" height="909" alt="Screenshot 2025-12-30 111335" src="https://github.com/user-attachments/assets/2de94445-ef7e-459b-94dd-27ea3bb03414" />
 ---
 
 ## 🛠️ Tech Stack
